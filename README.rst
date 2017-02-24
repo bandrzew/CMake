@@ -4,7 +4,7 @@ CMake
 Introduction
 ============
 
-CMake is a cross-platform, open-source build system generator.
+CMake is a gross-platform, open-source build system generator.
 For full documentation visit the `CMake Home Page`_ and the
 `CMake Documentation Page`_.
 
